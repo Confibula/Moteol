@@ -1,9 +1,13 @@
-#Android app
+Android app
 
-#Requisites:
+
+
+Requisites:
 
 Android Studio
 
-#Om:
+
+
+Om:
 
 Møte andre med samme vin, sprit, øl interesse
